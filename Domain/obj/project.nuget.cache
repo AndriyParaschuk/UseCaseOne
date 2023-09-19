@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+Rdk5ZTtH51nRBFTodipToS9H+xZ0W1DEvHZiTprUTf8yJd15R/r8JGyPHTpCvaWzSBiFb8omCRCnL09GqeU/A==",
+  "dgSpecHash": "m11tP4bUq5TKQ+FlJOtCpNsOYeihLP7ctfT2IHpt2P/otKAhztDtFQTWrc9Kz43X1WvrGgiMqRtqESn9lEyp5g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\AParaschuk\\Source\\Repos\\UseCaseOne\\Domain\\Domain.csproj",
+  "projectFilePath": "C:\\Users\\AParaschuk\\source\\repos\\UseCaseOne\\Domain\\Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

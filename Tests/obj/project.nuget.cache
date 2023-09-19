@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "5yV8x/8hljvrM1wfHz6q4BXnu4ScU4OURCMj1bUDMNkq1sX7G9UN03aLL37sBwTbqU6BwN1TvUgBaoTRjNxphw==",
+  "dgSpecHash": "XX+bpJs1OCFDHpwm5rvWF5EFTadSpWBvZ0tHzZY+ArDwkBnwqNFFn3LI/6+zc/BEmOT8T4V7Ze5L7Qsyz/ObEQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\AParaschuk\\Source\\Repos\\UseCaseOne\\Tests\\Tests.csproj",
+  "projectFilePath": "C:\\Users\\AParaschuk\\source\\repos\\UseCaseOne\\Tests\\Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\AParaschuk\\.nuget\\packages\\coverlet.collector\\3.2.0\\coverlet.collector.3.2.0.nupkg.sha512",
     "C:\\Users\\AParaschuk\\.nuget\\packages\\mediatr\\11.1.0\\mediatr.11.1.0.nupkg.sha512",
